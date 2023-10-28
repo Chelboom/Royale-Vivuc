@@ -1,0 +1,41 @@
+	<DOCTYPE HTML>
+	<html lang="en">
+	<head>
+		   <meta charset="UTF-8">
+		   <link rel="stylesheet" href="style.css">
+		   <link rel="stylesheet" href="icon/icons.css>
+		   <title>Royale Vivuc</title>
+	</head>
+	<body>
+		   <section class="menu">
+			     <div class="nav">
+					 <div class="logo"><h1>Royale <b> Vivuc</b></h1></div>
+					 <u1>
+					     <1i><a class="active" href="#">Home</a></1i>
+					     <1i><a href="#">Menu</a></1i>
+					     <1i><a href="#">Services</a></1i>
+					     <1i><a href="#">About Us</a></1i>
+					     <1i><a href="#">Gallery</a></1i>
+					</u1>
+					<div>
+					     <input class="signin" type="submit" values="Sing In" name="singin">
+					     <input class="signup" type="submit" values="Sign Up" name="singup">
+					</div>
+				</div>
+			   </section>
+			   <section class="grid">
+			       <div class="content-left">
+				 <div class="info">
+				     <h2>Buy Our Best <br>Sales anytime</h2>
+				     <p>Greetings! Our Classy and Elegant Clothes is waiting for you, <br>
+					   We are always here to offer you high quality service</p>
+				 </div>
+				 <button>Explore Food</button>
+			  </div>
+			  <div class="content-right">
+		</div>
+		<button>Explore Clothes</button>
+	</div>
+	<div class-"content right">
+	    <img src='
+				
